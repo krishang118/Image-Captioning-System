@@ -46,7 +46,7 @@ pip install numpy pandas pillow matplotlib torch torchvision scikit-learn nltk
 ## Resources
 
 The following resources are provided using a Google Drive link:
-- [Trained Models and Datasets](https://drive.google.com/drive/folders/16QP-v5A3NzAx67PHGeNyDU3qQgt_nfeU?usp=sharing)
+- [Trained Models and Datasets](https://drive.google.com/drive/folders/16QP-v5A3NzAx67PHGeNyDU3qQgt_nfeU?usp=sharing): 
   - `caption_model.pth`: Standard trained model
   - `best_caption_model.pth`: Best performing model
   - `image_features.pkl`: Extracted image features
