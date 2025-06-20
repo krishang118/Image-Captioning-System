@@ -55,7 +55,7 @@ The following resources are provided using a Google Drive link:
 
 To use these resources:
 1. Download the required files from the Google Drive link.
-2. Extract the dataset files, also place the model files, in the main cloned project directory.
+2. Extract the dataset files, and place the model files, in the main cloned project directory.
 
 ## Training
 
