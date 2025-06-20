@@ -1,6 +1,7 @@
 # Image Captioning System
 
-This project implements a deep learning image captioning model using a Transformer-based architecture. The model is trained on the Flickr8k dataset and can generate natural language descriptions for images.
+This project implements a deep learning image captioning model using a Transformer-based architecture. The model is trained on the Flickr8k dataset and generates natural language descriptions for images.
+
 The system combines ResNet50 for image feature extraction with a Transformer decoder to generate contextually relevant captions for input images.
 
 ## Features
