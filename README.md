@@ -19,8 +19,8 @@ The system combines ResNet50 for image feature extraction with a Transformer dec
 
 ```
 ├── Image Captioning.ipynb    # Main notebook containing the full end-to-end implementation
-├── caption_model.pth         # Trained model weights
-├── best_caption_model.pth    # Best model weights during training
+├── caption_model.pth         # Trained model
+├── best_caption_model.pth    # Best model during training
 ├── image_features.pkl        # Cached image features
 ├── Flickr8k_Dataset/         # Image dataset directory
 ├── Flickr8k_text/            # Text dataset directory
