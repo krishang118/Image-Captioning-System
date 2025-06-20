@@ -74,7 +74,7 @@ To train the model:
 To generate captions for new images:
 
 1. Run the notebook and select Option 2 (you can directly run this without training through Option 1 if you have downloaded the models already from the provided Google Drive link).
-2. Choose to caption a single image, and then provide a path to the required image.
+2. Choose to caption image, and then provide a path to the required image.
 3. The model will generate a caption for the image.
 
 ## Training Parameters
